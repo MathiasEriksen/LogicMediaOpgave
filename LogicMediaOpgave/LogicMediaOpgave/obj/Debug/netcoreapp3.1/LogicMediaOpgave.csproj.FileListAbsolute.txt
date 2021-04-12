@@ -1,0 +1,13 @@
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\bin\Debug\netcoreapp3.1\LogicMediaOpgave.exe
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\bin\Debug\netcoreapp3.1\LogicMediaOpgave.deps.json
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\bin\Debug\netcoreapp3.1\LogicMediaOpgave.runtimeconfig.json
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\bin\Debug\netcoreapp3.1\LogicMediaOpgave.runtimeconfig.dev.json
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\bin\Debug\netcoreapp3.1\LogicMediaOpgave.dll
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\bin\Debug\netcoreapp3.1\LogicMediaOpgave.pdb
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.csprojAssemblyReference.cache
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.AssemblyInfoInputs.cache
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.AssemblyInfo.cs
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.csproj.CoreCompileInputs.cache
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.dll
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.pdb
+C:\Users\Mathi\OneDrive\Skrivebord\LogicMediaOpgave\LogicMediaOpgave\obj\Debug\netcoreapp3.1\LogicMediaOpgave.genruntimeconfig.cache
